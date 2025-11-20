@@ -1,4 +1,4 @@
-\# Organização de Imposto de Renda – Planilha Excel
+# Organização de Imposto de Renda – Planilha Excel
 
 
 
