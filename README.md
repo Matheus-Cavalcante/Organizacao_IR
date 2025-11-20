@@ -12,7 +12,7 @@ A ferramenta centraliza dados pessoais, informes financeiros, rendimentos e tabe
 
 
 
-\## 🎯 Objetivo
+\## Objetivo
 
 \# Organização de Imposto de Renda – Planilha Excel
 
@@ -42,7 +42,7 @@ O usuário pode registrar e revisar todas as informações relevantes antes de i
 
 
 
-\## 🗂 Estrutura da Planilha
+\## Estrutura da Planilha
 
 
 
@@ -140,7 +140,7 @@ Essas tabelas tornam a planilha mais organizada e evitam erros de digitação.
 
 
 
-\## ✔️ Funcionalidades
+\##  Funcionalidades
 
 
 
@@ -160,7 +160,7 @@ Essas tabelas tornam a planilha mais organizada e evitam erros de digitação.
 
 
 
-\## 🚀 Como usar
+\##  Como usar
 
 
 
@@ -194,7 +194,7 @@ Essas tabelas tornam a planilha mais organizada e evitam erros de digitação.
 
 
 
-\## 📄 Arquivos deste repositório
+\##  Arquivos deste repositório
 
 
 
@@ -208,7 +208,7 @@ Essas tabelas tornam a planilha mais organizada e evitam erros de digitação.
 
 
 
-\## 👤 Autor
+\##  Autor
 
 
 
